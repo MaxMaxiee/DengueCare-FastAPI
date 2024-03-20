@@ -3,3 +3,5 @@ asyncpg
 psycopg2
 uvicorn
 sqlalchemy
+alembic
+pydantic

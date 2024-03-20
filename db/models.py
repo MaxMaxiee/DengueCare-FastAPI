@@ -13,6 +13,7 @@ class DbUser(Base):
     is_pending = Column(Boolean)
     is_verified = Column(Boolean)
     lastname = Column(String)
+    #password = Column(String)
     purok = Column(String)
     role = Column(String)
     sex = Column(String)
